@@ -1,13 +1,24 @@
-🚀 URL Shortener
-A simple and efficient URL Shortener built with Next.js and MongoDB, that allows users to shorten long URLs into clean, shareable links.
+# URL Shortener 🚀  
 
-✨ Features
-🔗 Shorten long URLs into custom short links
-📋 Copy shortened URLs with one click
-🌐 Responsive UI with Tailwind CSS
-⚡ Fast and lightweight
+A simple **URL Shortener** built with **Next.js** and **Tailwind CSS**.  
+This project allows users to enter a long URL and generate a short, shareable link.  
 
-🛠️ Tech Stack
-Frontend: Next.js (React), Tailwind CSS
-Backend: Next.js API Routes (Node.js runtime)
-Database: MongoDB (with official MongoDB driver)
+---
+
+## ✨ Features  
+- Shorten any long URL into a custom short link  
+- Copy & open generated short links easily  
+- Built with **Next.js API Routes** for backend logic  
+- Styled with **Tailwind CSS** for a clean and responsive UI  
+- Uses **environment variables** (`process.env.NEXT_PUBLIC_HOST`) for base URL  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend**: Next.js (React), Tailwind CSS  
+- **Backend**: Next.js API Routes  
+ 
+
+---
+
+
